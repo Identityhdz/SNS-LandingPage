@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SNS-LandingPage/static/css/main.ae42ac5f.css",
-    "main.js": "/SNS-LandingPage/static/js/main.a8977540.js",
+    "main.js": "/SNS-LandingPage/static/js/main.0b67d37b.js",
     "index.html": "/SNS-LandingPage/index.html",
     "main.ae42ac5f.css.map": "/SNS-LandingPage/static/css/main.ae42ac5f.css.map",
-    "main.a8977540.js.map": "/SNS-LandingPage/static/js/main.a8977540.js.map"
+    "main.0b67d37b.js.map": "/SNS-LandingPage/static/js/main.0b67d37b.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.a8977540.js"
+    "static/js/main.0b67d37b.js"
   ]
 }

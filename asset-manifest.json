@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SNS_LandingPage/static/css/main.ae42ac5f.css",
+    "main.js": "/SNS_LandingPage/static/js/main.a8977540.js",
+    "index.html": "/SNS_LandingPage/index.html",
+    "main.ae42ac5f.css.map": "/SNS_LandingPage/static/css/main.ae42ac5f.css.map",
+    "main.a8977540.js.map": "/SNS_LandingPage/static/js/main.a8977540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.a8977540.js"
+  ]
+}
